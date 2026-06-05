@@ -56,4 +56,3 @@ npm run dev
 - `JWT_SECRET` - JWT secret key
 - `JWT_EXPIRE` - JWT expiration time
 - `FRONTEND_URL` - Frontend URL for CORS
-# Vendastra_Backend
